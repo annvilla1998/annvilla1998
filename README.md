@@ -10,3 +10,8 @@
 [Instaounce](https://instaounce-clone.herokuapp.com/login)
 [Shouldsees](https://shouldsees.herokuapp.com/)
 [CampLife](https://camplife1.herokuapp.com/)
+
+
+## Social Media
+[Linkedin](https://www.linkedin.com/in/anabel-villalobos-5772ab196/)
+[AngelList](https://angel.co/u/anabel-villalobos)
