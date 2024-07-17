@@ -24,11 +24,6 @@
 </p>
 <pre align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annvilla1998&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
-  
-</pre>
-<pre align="center">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annvilla1998&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
   
 </pre>
