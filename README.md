@@ -12,7 +12,7 @@
 </p>
   <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/anabel-villalobos-5772ab196/">
+  <a href="https://www.linkedin.com/in/anabel-renee-villalobos/">
     <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" width="100" height="60" alt="LinkedIn Badge"/>
   </a> 
   <a href="https://angel.co/u/anabel-villalobos">
